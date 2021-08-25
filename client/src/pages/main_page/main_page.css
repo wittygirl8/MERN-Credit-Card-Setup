@@ -1,0 +1,69 @@
+.fullBackground{
+    background-color: rgb(181, 210, 236);
+    padding:90px 2px 3px 5px;
+    background-size: cover;
+}
+.cardDisplay{
+    position: relative;
+    width: 20%;
+    margin: 5.5rem 15rem -8rem 1rem;
+    border-radius: 25px
+}
+.chip{
+    width: 3rem;
+}
+.err-msg{
+    font-size: 11px;
+    font-weight: 600px;
+    color: #df4930;
+    width: 100%;
+  }
+.inside_card_num{ 
+    background: transparent;
+    overflow:hidden;
+    border: none;
+    position: relative;
+    display: block;
+    color: rgb(255, 255, 255);
+}
+.card_name{
+    width: 4rem;
+    margin-left: 14rem;
+}
+.CardDetails{
+    background-color: #ffffff;
+    width: 45%;
+    margin: -5% 28% 6%;
+    padding: 7% 2% 5% 2%;
+    border-radius: 15px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.contact_form{
+    margin-bottom: 35rem;
+}
+
+.sub_btn{
+    width: 100%;
+    padding: 2%;
+    background-color: #247cd4;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    border-color: #fff;
+    margin-top: 1rem;
+}
+
+.txt-area{
+    width: 82%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    padding: 2%;
+    color: black;
+    transition: #247cd4 .15s;
+    
+}
+
+.form-col{
+    margin-bottom: 5%;
+}
